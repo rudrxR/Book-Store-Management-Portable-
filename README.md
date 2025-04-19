@@ -37,24 +37,22 @@ A modern and responsive **Book Store Management System** built using **Java Swin
 These are the Screenshots of the GUI: 
 - Login Page:
 
-  ![Screenshot 2025-04-13 132100](https://github.com/user-attachments/assets/9a5a2c5f-ac2b-4332-8be1-79c762a73d2c)
+  ![Screenshot 2025-04-13 132100](https://github.com/user-attachments/assets/69a58458-45ef-41dd-a544-e7df27fe6c9f)
 - Dashboard:
 
-  ![Screenshot 2025-04-13 132242](https://github.com/user-attachments/assets/d21da7a6-d566-4844-9902-31b1d5d3c9c7)
+  ![Screenshot 2025-04-11 194515](https://github.com/user-attachments/assets/7f009d14-d714-436b-aa70-da4583e32505)
+  
 - Inventory:
 
-  ![Screenshot 2025-04-13 132553](https://github.com/user-attachments/assets/71711c05-316b-47b7-9b12-1f4486b1cf8b)
+  ![Screenshot 2025-04-13 132553](https://github.com/user-attachments/assets/21251e87-264d-41f9-8419-85d94766b0c5)
+
 - Add Book:
 
-  ![Screenshot 2025-04-13 133003](https://github.com/user-attachments/assets/9ff4d0f0-defa-4f8c-b7fc-d28153a8d11a)
+  ![Screenshot 2025-04-13 133003](https://github.com/user-attachments/assets/536b594c-e495-4005-b5db-5b27aeacd34b)
+
 - Billing:
 
-  ![Screenshot 2025-04-13 133050](https://github.com/user-attachments/assets/46bdedeb-6ece-4c99-a330-cc80276e5c03)
-
-
-
----
-
+  ![Screenshot 2025-04-13 133050](https://github.com/user-attachments/assets/7f627f3e-fc2f-4951-bb3d-051a89459fd3)
 
 ---
 
